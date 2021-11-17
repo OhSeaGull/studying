@@ -1,1 +1,0 @@
-TensorFlow官方网站还提供了一系列有关JavaScript版本的教程、使用指南以及开箱即用的预训练模型，它们都可以帮助你更好地了解深度学习的相关知识。对深度学习感兴趣的读者推荐阅读美国量子物理学家Michael Nielsen编写的《神经网络与深度学习》（英文原版名为《Neural Networks and Deep Learning》），它对于深度学习基本过程和原理的讲解非常清晰。
