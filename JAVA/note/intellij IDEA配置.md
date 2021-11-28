@@ -63,8 +63,7 @@
 
 平常使用 IDEA 时，你可能没有注意到，一旦我们打开过多的文件时，默认会堆积在一行显示，就像浏览器打开了多个标签一样，此时需要通过右侧箭头筛选的方式来选择其他文件。为了解决这一问题，让我们打开的所有文件能以多行显示的方式方便查看。
 
-设置入口：依次打开` Settings -> Editor -> General -> Editor Tabs`，然后将 `Show tabs in` 勾选为 `Multiples rows`。
-
+设置入口：依次打开 ` Settings -> Editor -> General -> Editor Tabs`，然后将 `Show tabs in` 勾选为 `Multiples rows`。
 
 ### **行号和方法分隔符**
 
@@ -120,10 +119,10 @@ IDEA 默认是不会对代码自动编译的，需要我们手动配置。设置
  * @ClassName    : ${CLASS_NAME}.java
  * @createTime   : ${DATE} ${TIME}
  * @version      : 1.0
- * @author       : 村雨
+ * @author       : sublei
  * @Email        : 747731461@qq.com
- * @公众号        : 村雨遥
- * @Website      : https://cunyu1943.github.io
+ * @公众号        : 小磊子FL
+ * @Website      : https://sublei.github.io
  * @Description  :
  */
 ```
